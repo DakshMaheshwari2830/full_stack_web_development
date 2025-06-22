@@ -1,0 +1,19 @@
+html{
+    background-color: black;
+}
+h1{
+    text-transform: uppercase;
+    font-size:3 rem ;
+}
+#second{
+  width: 50%;  
+  margin-left: 25%;
+  margin-right:100px ;
+  color:white;
+  font-family: "Libre Baskerville", serif;
+  text-align: center;
+}
+#third{
+    border:5px solid white;
+    width:100%
+}

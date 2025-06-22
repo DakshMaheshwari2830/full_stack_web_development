@@ -1,0 +1,17 @@
+/* Write your code here: */
+h1{
+    color:blueviolet;
+}
+h2{
+    color:blueviolet;
+}
+.box>p{
+    color: firebrick;
+}
+.box .list{
+    color:blue;
+}
+.list .done{
+    color:seagreen;
+}
+
